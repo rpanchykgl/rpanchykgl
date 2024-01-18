@@ -8,6 +8,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api?username=rpanchykgl&show_icons=true&hide_rank=true&hide_title=true&text_bold=false" alt="rpanchykgl" height="200" />
 </picture>
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rpanchykgl&show_icons=true&locale=en&layout=compact&hide_title=true&theme=dark"
@@ -17,6 +18,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rpanchykgl&show_icons=true&locale=en&layout=compact&hide_title=true" alt="rpanchykgl" height="200" />
 </picture>
+-->
 <!--
 Built with the help of
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme
