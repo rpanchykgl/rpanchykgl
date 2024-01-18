@@ -1,16 +1,24 @@
-### Hi there 👋
-
+<h3 style="text-decoration: none;">Hi there 👋, I'm <a href="https://www.linkedin.com/in/rpanchyk" target="_blank">rpanchykgl</a></h3>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rpanchykgl&show_icons=true&hide_rank=true&hide_title=true&text_bold=false&theme=dark"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rpanchykgl&show_icons=true&hide_rank=true&hide_title=true&text_bold=false&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rpanchykgl&show_icons=true&hide_rank=true&hide_title=true&text_bold=false" alt="rpanchykgl" height="200" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rpanchykgl&show_icons=true&locale=en&layout=compact&hide_title=true&theme=dark"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rpanchykgl&show_icons=true&locale=en&layout=compact&hide_title=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rpanchykgl&show_icons=true&locale=en&layout=compact&hide_title=true" alt="rpanchykgl" height="200" />
+</picture>
 <!--
-**rpanchykgl/rpanchykgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Built with the help of
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/anuraghazra/github-readme-stats
 -->
